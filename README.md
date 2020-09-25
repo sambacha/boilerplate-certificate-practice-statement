@@ -2,6 +2,7 @@
 
 > Certificate Practice Statement Boilerplate for providing an official CSP for code signing/pki
 
+
 ### Abstract
 
 A CPS is a statement of the practices that a certification authority (CA) employs in issuing, suspending, revoking,
@@ -42,3 +43,4 @@ Use the files in `dist/` or the compiled outputs offered in the following format
 All Rights are owned by their respective holders <br>
 No claim asserted over GlobalSign's boilerplate template. Any code is licesned under the ISC licesne <br>
 This is not legal advice nor should it be taken as an authoritative guide on issuance of such polices as it relates to CPS guidelines
+
