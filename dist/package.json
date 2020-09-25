@@ -2,7 +2,10 @@
   "name": "boilerplate-certificate-practice-statement",
   "version": "0.1.0",
   "description": "Boilerplate template for Certificate Practice Statements",
-  "keywords":[ "x509", "certificate practice statement"],
+  "keywords": [
+    "x509",
+    "certificate practice statement"
+  ],
   "license": "ISC",
   "author": "SEE CONTRIBUTORS",
   "scripts": {

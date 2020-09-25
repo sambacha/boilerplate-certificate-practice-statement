@@ -5,7 +5,7 @@
 }
 
 .w-checkbox::before {
-  content: ' ';
+  content: " ";
   display: table;
   -ms-grid-column-span: 1;
   grid-column-end: 2;
@@ -18,7 +18,7 @@
 }
 
 .w-checkbox::after {
-  content: ' ';
+  content: " ";
   display: table;
   -ms-grid-column-span: 1;
   grid-column-end: 2;
@@ -114,7 +114,7 @@
 
 body {
   background-color: #fff;
-  font-family: 'IBM Plex Sans Light', sans-serif;
+  font-family: "IBM Plex Sans Light", sans-serif;
   color: #171717;
   font-size: 0.875rem;
   line-height: 1.125;
@@ -323,7 +323,7 @@ p {
   width: 100vw;
   height: 3rem;
   border-bottom: 1px solid #3d3d3d;
-  background-color: #FFFF;
+  background-color: #ffff;
 }
 
 .sidenav-list {
@@ -360,7 +360,7 @@ p {
   border-left: 3px solid transparent;
   -webkit-transition: all 150ms ease;
   transition: all 150ms ease;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   color: #bebebe;
   font-weight: 500;
   text-decoration: none;
@@ -439,7 +439,9 @@ p {
   margin-bottom: 0px;
   padding-left: 0px;
   border-top: 1px solid #dcdcdc;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   color: #171717;
   font-size: 0.875rem;
   list-style-type: none;
@@ -491,7 +493,9 @@ p {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   color: #171717;
   font-size: 0.875rem;
   line-height: 1.125rem;
@@ -529,7 +533,9 @@ p {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   color: #0062ff;
 }
 
@@ -590,7 +596,9 @@ p {
   box-shadow: inset 0 0 0 1px transparent;
   -webkit-transition: all 70ms ease;
   transition: all 70ms ease;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   color: #171717;
   line-height: 1.25rem;
   letter-spacing: 0.16px;
@@ -997,7 +1005,9 @@ p {
   -webkit-transform-origin: 50% 0%;
   -ms-transform-origin: 50% 0%;
   transform-origin: 50% 0%;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   color: #171717;
 }
 
@@ -1185,7 +1195,9 @@ p {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   color: #565656;
   font-size: 0.75rem;
   line-height: 1rem;
@@ -1259,7 +1271,9 @@ p {
   -ms-flex-align: center;
   align-items: center;
   opacity: 1;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   color: #bebebe;
   letter-spacing: 0.32px;
   cursor: not-allowed;
@@ -1306,7 +1320,9 @@ p {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   color: #565656;
   font-size: 12px;
   letter-spacing: 0.32px;
@@ -1328,7 +1344,9 @@ p {
 .overflow-menu__wrap {
   -webkit-transition: all 250ms ease;
   transition: all 250ms ease;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   color: #565656;
   cursor: pointer;
 }
@@ -1581,7 +1599,7 @@ p {
   background-color: #f3f3f3;
   -webkit-transition: all 90ms ease;
   transition: all 90ms ease;
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: "IBM Plex Mono", sans-serif;
   color: #171717;
   font-size: 0.75rem;
   line-height: 1.125rem;
@@ -2585,7 +2603,9 @@ p {
   height: 1.625rem;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   font-weight: 400;
   letter-spacing: 0px;
 }
@@ -2629,7 +2649,9 @@ p {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
 }
 
 .table-column__head {
@@ -3392,7 +3414,7 @@ p {
 .assistive-text.assistive-text__snippet-span {
   padding-right: 0.5rem;
   padding-left: 0.5rem;
-  font-family: 'IBM Plex Sans Light', sans-serif;
+  font-family: "IBM Plex Sans Light", sans-serif;
 }
 
 .assistive-text__wrap {
@@ -3749,7 +3771,7 @@ p {
   padding-right: 3.25rem;
   padding-left: 1rem;
   background-color: #f3f3f3;
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: "IBM Plex Mono", sans-serif;
   font-size: 0.75rem;
   line-height: 1rem;
   letter-spacing: 0.32px;
@@ -4459,7 +4481,7 @@ p {
   border-left: 3px solid transparent;
   -webkit-transition: all 250ms ease;
   transition: all 250ms ease;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   color: hsla(0, 0%, 95.3%, 0.5);
   text-decoration: none;
 }
@@ -4609,7 +4631,7 @@ p {
   display: inline-block;
   margin-top: 0px;
   margin-bottom: 1.5rem;
-  font-family: 'IBM Plex Sans Light', sans-serif;
+  font-family: "IBM Plex Sans Light", sans-serif;
   font-size: 1.75rem;
   line-height: 125%;
   font-weight: 300;
@@ -4617,7 +4639,7 @@ p {
 
 .page-p {
   padding-bottom: 1.5rem;
-  font-family: 'IBM Plex Sans Light', sans-serif;
+  font-family: "IBM Plex Sans Light", sans-serif;
   font-size: 1rem;
   line-height: 1.5rem;
   letter-spacing: 0px;
@@ -4698,7 +4720,7 @@ p {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  font-family: 'IBM Plex Sans Light', sans-serif;
+  font-family: "IBM Plex Sans Light", sans-serif;
   color: #171717;
   font-size: 0.75rem;
   line-height: 1rem;
@@ -5178,14 +5200,18 @@ p {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   font-size: 1rem;
   line-height: 1.5;
   font-weight: 300;
 }
 
 .logo-span {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
   font-weight: 600;
 }
 
@@ -5314,7 +5340,7 @@ p {
 }
 
 .snippet-multi__code {
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: "IBM Plex Mono", sans-serif;
   font-size: 0.75rem;
   line-height: 1rem;
   letter-spacing: 0.32px;
@@ -6337,20 +6363,20 @@ p {
 }
 
 @font-face {
-  font-family: 'IBM Plex Sans';
-  src: url('../fonts/IBMPlexSans-Regular.otf') format('opentype');
+  font-family: "IBM Plex Sans";
+  src: url("../fonts/IBMPlexSans-Regular.otf") format("opentype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: 'IBM Plex Mono';
-  src: url('../fonts/IBMPlexMono-Regular.otf') format('opentype');
+  font-family: "IBM Plex Mono";
+  src: url("../fonts/IBMPlexMono-Regular.otf") format("opentype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: 'IBM Plex Sans Light';
-  src: url('../fonts/IBMPlexSans-Light.otf') format('opentype');
+  font-family: "IBM Plex Sans Light";
+  src: url("../fonts/IBMPlexSans-Light.otf") format("opentype");
   font-weight: 300;
   font-style: normal;
 }
