@@ -1,0 +1,17 @@
+{
+  "name": "boilerplate-certificate-practice-statement",
+  "version": "0.1.0",
+  "description": "Boilerplate template for Certificate Practice Statements",
+  "keywords":[ "x509", "certificate practice statement"],
+  "license": "ISC",
+  "author": "SEE CONTRIBUTORS",
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open",
+    "start": "npm run build && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
