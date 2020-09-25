@@ -14,7 +14,7 @@ Certification Practice Statement
 
 ### \[COMPANY\] Certification Practice Statement
 
-> **Document Histor\*\***y\*\*
+> **Document Histor****y**
 >
 > **Document Change Control**
 
@@ -78,13 +78,13 @@ Certification Practice Statement
 >
 > The domain of responsibility of the \[COMPANY CA\]’s comprises the overall management of the certificate lifecycle including the following actions:
 
-- Issuance
+-   Issuance
 
-- Revocation
+-   Revocation
 
-- Renewal
+-   Renewal
 
-- Status validation
+-   Status validation
 
 > 1.7.1.1Role of \[COMPANY CA\]
 >
@@ -112,9 +112,9 @@ Certification Practice Statement
 
 > \[COMPANY\] certificates can be used for public domain transactions that require:
 
-- Authentication and
+-   Authentication and
 
-- Confidentiality
+-   Confidentiality
 
 > Additional uses are specifically designated once they become available to end entities.
 >
